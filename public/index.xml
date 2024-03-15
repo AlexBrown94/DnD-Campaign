@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>World Map</title>
+    <link>https://quartz.jzhao.xyz/World/World-Map</link>
+    <guid>https://quartz.jzhao.xyz/World/World-Map</guid>
+    <description>### Tutorial: [youtu.be/54EyMzJP5DU](youtu.be/54EyMzJP5DU) ### id must be unique id: World ### Lock pins so they can&#039;t be moved lock: true ### If true, view of map will recenter ...</description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item><item>
+    <title>City</title>
+    <link>https://quartz.jzhao.xyz/World/Regions/The-Shattered-Dominion/Wandering-Acres/FarGrove/City</link>
+    <guid>https://quartz.jzhao.xyz/World/Regions/The-Shattered-Dominion/Wandering-Acres/FarGrove/City</guid>
+    <description>This is the city of FarGrove.</description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item><item>
+    <title>General Info</title>
+    <link>https://quartz.jzhao.xyz/World/Regions/The-Shattered-Dominion/General-Info</link>
+    <guid>https://quartz.jzhao.xyz/World/Regions/The-Shattered-Dominion/General-Info</guid>
+    <description></description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item><item>
+    <title>General Info</title>
+    <link>https://quartz.jzhao.xyz/World/Regions/The-Deadlands/General-Info</link>
+    <guid>https://quartz.jzhao.xyz/World/Regions/The-Deadlands/General-Info</guid>
+    <description></description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item><item>
+    <title>The Precursors</title>
+    <link>https://quartz.jzhao.xyz/World/Regions/The-Breach/The-Precursors</link>
+    <guid>https://quartz.jzhao.xyz/World/Regions/The-Breach/The-Precursors</guid>
+    <description>In the annals of history, there exists a tale shrouded in mystery and veiled in the mists of time—a tale of a precursor race whose legacy lingered long after their disappearance, casting ...</description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item><item>
+    <title>General Info</title>
+    <link>https://quartz.jzhao.xyz/World/Regions/The-Breach/General-Info</link>
+    <guid>https://quartz.jzhao.xyz/World/Regions/The-Breach/General-Info</guid>
+    <description></description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item><item>
+    <title>The Order of the Twilight Sentinels</title>
+    <link>https://quartz.jzhao.xyz/World/Regions/The-Breach/Factions/The-Order-of-the-Twilight-Sentinels</link>
+    <guid>https://quartz.jzhao.xyz/World/Regions/The-Breach/Factions/The-Order-of-the-Twilight-Sentinels</guid>
+    <description>Roughly 600 years ago, a group of brave adventurers known as the Twilight Sentinels emerged to confront the dark forces emanating from The Breach and safeguard the world from its malevolent ...</description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item><item>
+    <title>The Eternal Vigil</title>
+    <link>https://quartz.jzhao.xyz/World/Regions/The-Breach/Factions/The-Eternal-Vigil</link>
+    <guid>https://quartz.jzhao.xyz/World/Regions/The-Breach/Factions/The-Eternal-Vigil</guid>
+    <description>Around 400 years ago, in the wake of the Order of the Twilight Sentinels’ valiant efforts, the nations of the world came together to establish the Eternal Vigil, a coalition of warriors ...</description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item><item>
+    <title>General Info</title>
+    <link>https://quartz.jzhao.xyz/World/Regions/Rimegate/General-Info</link>
+    <guid>https://quartz.jzhao.xyz/World/Regions/Rimegate/General-Info</guid>
+    <description></description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item><item>
+    <title>General Info</title>
+    <link>https://quartz.jzhao.xyz/World/Regions/Mistwood/General-Info</link>
+    <guid>https://quartz.jzhao.xyz/World/Regions/Mistwood/General-Info</guid>
+    <description></description>
+    <pubDate>Fri, 15 Mar 2024 14:15:28 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
