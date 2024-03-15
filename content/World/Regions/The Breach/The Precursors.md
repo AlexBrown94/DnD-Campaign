@@ -1,0 +1,11 @@
+In the annals of history, there exists a tale shrouded in mystery and veiled in the mists of time—a tale of a precursor race whose legacy lingered long after their disappearance, casting a shadow over the lands they once called home. Known only as the Ancients, these enigmatic beings were said to possess knowledge and power beyond mortal comprehension, their mastery of magic and artifice unrivaled in the annals of time.
+
+It is said that a millennium ago, during the dawn of civilization, the Ancients walked the earth, their cities towering monuments to their ingenuity and ambition. From the depths of the earth to the farthest reaches of the sky, their creations spanned the breadth of the world, shaping the course of history with their every word and deed.
+
+Among their greatest achievements were the Warforged, sentient constructs forged of metal and magic, imbued with the spark of life and the gift of consciousness. Crafted in the fires of their forges and tempered with the blood of the earth, the Warforged served as the guardians and protectors of the Ancients' realm, their unwavering loyalty and unyielding strength a testament to the skill of their creators.
+
+But as the centuries passed and the world changed, the Ancients vanished without a trace, leaving behind naught but ruins and relics to mark their passing. Some say they ascended to the heavens, their souls departing this mortal coil to dwell among the stars. Others whisper of a great cataclysm that swept across the land, consuming them in its fiery embrace and leaving naught but dust and ash in its wake.
+
+Whatever the truth may be, one thing is certain—the Ancients' disappearance heralded the end of an era, plunging the world into darkness and uncertainty. Their cities lay abandoned, their secrets hidden beneath layers of dust and decay, waiting to be unearthed by those brave enough to seek them out.
+
+And so, the Warforged remained, their purpose unchanged, their loyalty unwavering. For a thousand years, they stood vigil over the Deadlands, guardians of a realm long forgotten, their origins lost to the sands of time. But deep within the heart of the Breach, whispers of the Ancients still linger, echoing through the darkness like a faint echo of a bygone age, reminding all who dare to listen that some secrets are best left buried.
