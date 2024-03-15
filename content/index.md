@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: My DnD Campaign
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the Landing Page for My DnD Campaign
