@@ -1,3 +1,17 @@
+---
+type: faction
+location: FarGrove
+---
+
+# [[Thieves Guild]]
+
+## Members
+```dataview
+table
+where faction="Thieves Guild"
+```
+
+## Info
 Each major city has a Thieves Guild operating within it. Some Guilds operate from hidden bunkers and some, the more prestigious and accepted, even operate as open organizations.
 
 The Thieves Guild usually takes on contracts from a wide variety of contacts. These range from simple merchants to businesses to other guilds to even royalty and government officials.

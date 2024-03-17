@@ -1,8 +1,15 @@
 ---
 type: location
-factions: 
 aesthetic:
 region:
 ---
 
-# {{file.parent}}
+# <% tp.file.folder(false) %>
+
+## Factions
+
+```dataview 
+table 
+where location = "<%tp.file.folder(false)%>" and type="faction"
+```
+## Info

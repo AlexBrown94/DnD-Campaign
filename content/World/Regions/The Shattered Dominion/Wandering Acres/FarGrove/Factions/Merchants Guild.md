@@ -1,6 +1,14 @@
 ---
-title: Lord Reynard Blackwood
-draft: false
-tags: 
-h:
+type: faction
+location: FarGrove
 ---
+
+# [[Merchants Guild]]
+
+## Members
+```dataview
+table
+where faction="Merchants Guild"
+```
+
+## Info

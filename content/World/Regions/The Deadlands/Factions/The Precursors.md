@@ -1,3 +1,11 @@
+---
+type: faction
+location: The Deadlands
+members:
+---
+
+# [[The Precursors]]
+
 In the annals of history, there exists a tale shrouded in mystery and veiled in the mists of time—a tale of a precursor race whose legacy lingered long after their disappearance, casting a shadow over the lands they once called home. Known only as the Ancients, these enigmatic beings were said to possess knowledge and power beyond mortal comprehension, their mastery of magic and artifice unrivaled in the annals of time.
 
 It is said that a millennium ago, during the dawn of civilization, the Ancients walked the earth, their cities towering monuments to their ingenuity and ambition. From the depths of the earth to the farthest reaches of the sky, their creations spanned the breadth of the world, shaping the course of history with their every word and deed.
