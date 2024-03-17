@@ -1,3 +1,10 @@
+---
+type: faction
+location: 
+members:
+---
+
+# [[Baron's Council]]
 The Baron's Council is comprised of the following Members:
 
 [[Baron Von Drak]]
